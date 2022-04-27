@@ -163,36 +163,32 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-name=EURONEWS tvg-id=Euronews.au tvg-logo=https://i.imgur.com/szYOy8S.jpg group-title="AUSTRALIA" tvg-chno="233",EURONEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name"MAVTV Motor Sports" tvg-id="" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="AUSTRALIA",MAVTV Motor Sports
-https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sky News Australia Extra 1" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="AUSTRALIA",Sky News Australia Extra 1
+#EXTINF:-1 tvg-name="Sky News Australia Extra 1" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="AUSTRALIA" tvg-chno="204",Sky News Australia Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Australia Extra 2" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="AUSTRALIA",Sky News Australia Extra 2
+#EXTINF:-1 tvg-name="Sky News Australia Extra 2" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="AUSTRALIA" tvg-chno="203",Sky News Australia Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-name="Sports Grid - github.com/Free-IPTV" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/T2Opptd.jpg",Sports Grid - github.com/Free-IPTV
-https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports TV Plus" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/ZgFhOZ8.png",Sports TV Plus
+
+#EXTINF:-1 tvg-name="Sports TV Plus" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" tvg-chno="397",Sports TV Plus
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Edge Sport " tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="USA",Edge Sport 
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport " tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="USA" tvg-chno="311",Edge Sport 
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ACC" tvg-logo="https://i.imgur.com/UbUZw9E.png" group-title="USA",ACC
-https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="UCTV - University of California" tvg-id="UCTV - University of California" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="USA LOCAL",UCTV - University of California
+
+#EXTINF:-1 tvg-name="UCTV - University of California" tvg-id="UCTV - University of California" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="USA LOCAL" tvg-chno="289",UCTV - University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1,PBS America (Australia Geo)
+#EXTINF:-1 tvg-chno="280",PBS America (Australia Geo)
 https://pbs-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Weather Spy (Australia)
+#EXTINF:-1 tvg-chno="279",Weather Spy (Australia)
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Motorvision.TV (Australia) Geo
+#EXTINF:-1 tvg-chno="320",Motorvision.TV (Australia) Geo
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungau/playlist.m3u8
-#EXTINF:-1,Now 70's (Australia)
+
+#EXTINF:-1 tvg-chno="110",Now 70's (Australia)
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Now 80's (Australia)
+#EXTINF:-1 tvg-chno="111",Now 80's (Australia)
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Now 90's (Australia)
+#EXTINF:-1 tvg-chno="112",Now 90's (Australia)
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Clubbing TV (Australia)
+#EXTINF:-1 tvg-chno="113",Clubbing TV (Australia)
 https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Urban (Australia)
+#EXTINF:-1 tvg-chno="114",Trace Urban (Australia)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
