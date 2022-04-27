@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/nzau/epg.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
-#EXTINF:-1 tvg-id="tv.46" tvg-logo="https://i.mjh.nz/.images/tv.46.png" tvg-chno="201",Al Jazeera
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="https://i.mjh.nz/.images/tv.46.png" tvg-chno="232",Al Jazeera
 https://i.mjh.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.18" tvg-logo="https://i.mjh.nz/.images/tv.18.png" tvg-chno="29",Parliament TV
+#EXTINF:-1 tvg-id="tv.18" tvg-logo="https://i.mjh.nz/.images/tv.18.png" tvg-chno="209", NZ Parliament
 https://i.mjh.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="100",BREEZE TV
@@ -109,10 +109,10 @@ https://c.mjh.nz/101002210221|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2
 #EXTINF:-1 tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" tvg-chno="44",Snowy Mountains Television
 https://c.mjh.nz/snowy-mountains|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" tvg-chno="204",Channel News Asia (CNA)
+#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" tvg-chno="220",Channel News Asia (CNA)
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png" tvg-chno="203",Bloomberg Australia
+#EXTINF:-1 tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png" tvg-chno="213",Bloomberg Australia
 https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ua4Iq5novXnNBN2dpvabhYy_O63nB6zPCETAOwTrB0UXxHP27GpgRyQUswcXFY27Yw" tvg-chno="202",Sky News Election
@@ -127,16 +127,16 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News NOW" tvg-logo="https://livenow.news/nbcnewsnow.jpeg" group-title="livenow.news" tvg-chno="212",NBC News NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-logo="https://livenow.news/cheddar.jpeg" group-title="livenow.news" tvg-chno="213",Cheddar
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-logo="https://livenow.news/cheddar.jpeg" group-title="livenow.news" tvg-chno="214",Cheddar
 https://live.chdrstatic.com/cheddar/index.m3u8
 
-#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://livenow.news/newsy.jpeg" group-title="livenow.news" tvg-chno="214",Newsy
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://livenow.news/newsy.jpeg" group-title="livenow.news" tvg-chno="215",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
-#EXTINF:-1 tvg-id="Newsmaxtv.us" tvg-name="Newsmaxtv" tvg-logo="https://livenow.news/newsmaxtv.jpeg" group-title="livenow.news" tvg-chno="215",Newsmax TV
+#EXTINF:-1 tvg-id="Newsmaxtv.us" tvg-name="Newsmaxtv" tvg-logo="https://livenow.news/newsmaxtv.jpeg" group-title="livenow.news" tvg-chno="298",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://livenow.news/trtworld.jpeg" group-title="livenow.news" tvg-chno="220",TRT World
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://livenow.news/trtworld.jpeg" group-title="livenow.news" tvg-chno="230",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://livenow.news/nhkworld.jpeg" group-title="livenow.news" tvg-chno="221",NHK WORLD-JAPAN
@@ -145,16 +145,16 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://livenow.news/cgtn.jpeg" group-title="livenow.news" tvg-chno="222",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-id="TickerNews.au" tvg-name="Ticker News" tvg-logo="https://livenow.news/ticker-news.jpeg" group-title="livenow.news" tvg-chno="209",Ticker News
+#EXTINF:-1 tvg-id="TickerNews.au" tvg-name="Ticker News" tvg-logo="https://livenow.news/ticker-news.jpeg" group-title="livenow.news" tvg-chno="206",Ticker News
 https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://livenow.news/gbnews.jpeg" group-title="livenow.news" tvg-chno="299",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-id="arisenews.uk" tvg-name="Arise News" tvg-logo="https://livenow.news/arisenews.jpeg" group-title="livenow.news" tvg-chno="223",Arise News
+#EXTINF:-1 tvg-id="arisenews.uk" tvg-name="Arise News" tvg-logo="https://livenow.news/arisenews.jpeg" group-title="livenow.news" tvg-chno="240",Arise News
 https://embeddedplayer.visionip.tv/index.php?module=playlist&type=m3u8_mb&b2b=1&broadcastid=15718&protocolid=5&datarateid=3&user=AriseNew-VideoJS&www=www.arise.tv
 
-#EXTINF:-1 tvg-id="dw.de" tvg-name="DW News" tvg-logo="https://livenow.news/dw.jpeg" group-title="livenow.news" tvg-chno="224",DW News
+#EXTINF:-1 tvg-id="dw.de" tvg-name="DW News" tvg-logo="https://livenow.news/dw.jpeg" group-title="livenow.news" tvg-chno="231",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="arirang.kr" tvg-name="Arirang TV World" tvg-logo="https://livenow.news/arirang.jpeg" group-title="livenow.news" tvg-chno="225",Arirang TV World
