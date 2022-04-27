@@ -121,8 +121,11 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960
 #EXTINF:-1 tvg-id="ABCNewsNow.us" tvg-name="ABC News (US)" tvg-logo="https://livenow.news/abcnews-us.jpeg" group-title="livenow.news" tvg-chno="210",ABC News (US)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN from CBS News" tvg-logo="https://livenow.news/cbsn.jpeg" group-title="livenow.news" tvg-chno="211",CBSN from CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN" tvg-logo="https://livenow.news/cbsn.jpeg" group-title="livenow.news" tvg-chno="211",CBSN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN from CBS News" tvg-logo="https://livenow.news/cbsn.jpeg" group-title="livenow.news" tvg-chno="218",CBSN LA
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_6.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News NOW" tvg-logo="https://livenow.news/nbcnewsnow.jpeg" group-title="livenow.news" tvg-chno="212",NBC News NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
@@ -192,3 +195,25 @@ https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="114",Trace Urban (Australia)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="217",Sky News
+https://list.iptvcat.com/my_list/s/fbfded5bd4092b6cda6bc4626845d3f3.m3u8
+#EXTINF:-1 tvg-chno="218",CNN Intl
+https://list.iptvcat.com/my_list/s/6eb35d231a2476b50150bd041708ee01.m3u8
+#EXTINF:-1 tvg-chno="219",CNN USA
+https://list.iptvcat.com/my_list/s/c01d1dfaefa468e9fd447c5aeaf8275c.m3u8
+
+#EXTINF:-1 tvg-chno="301",ESPN
+https://list.iptvcat.com/my_list/s/050d2d16ba97150fd727614dec62dbda.m3u8
+#EXTINF:-1 tvg-chno="302",ESPN 2
+https://list.iptvcat.com/my_list/s/47072d299b108e19ee49dfe296b9ed2f.m3u8
+#EXTINF:-1 tvg-chno="303",ESPN NEWS
+https://list.iptvcat.com/my_list/s/095a92e0a83c8bb2709e924f77ff4029.m3u8
+#EXTINF:-1 tvg-chno="304",NFL Network
+https://list.iptvcat.com/my_list/s/2930cfb0da1ee951d1484a7e939f7d30.m3u8
+#EXTINF:-1 tvg-chno="305",NFL Redzone
+https://list.iptvcat.com/my_list/s/697ca69fae4281a3d16c46582cf4c006.m3u8
+#EXTINF:-1 tvg-chno="306",Sky F1
+https://list.iptvcat.com/my_list/s/9be6be7c63609de07108c85f93899fc5.m3u8
+#EXTINF:-1 tvg-chno="309",ACC
+https://list.iptvcat.com/my_list/s/6dab73551438d59b6078b8c39d3dc050.m3u8
